@@ -10,7 +10,7 @@ void setup()
   lcd.init();
   lcd.setCursor(0, 0);
   lcd.print("Hello");
-  delay(2);
+  delay(2000);
   lcd.setCursor(0, 1);
   lcd.print("Demos Time!!!");
   lcd.clear();
