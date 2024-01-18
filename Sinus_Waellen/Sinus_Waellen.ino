@@ -1,6 +1,6 @@
 #define Vpos 5
 #define Vneg 6
-// Tensão máxima (0-5v) e Frequência de saída
+// Tensão máxima g:\sketch_jan18c\sketch_jan18c.ino(0-5v) e Frequência de saída
 #define VMAX 5
 #define F 5
 
